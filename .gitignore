@@ -1,0 +1,8 @@
+.venv/
+data/
+__pycache__/
+*.pyc
+.api_football_key
+.claude/
+.DS_Store
+.env
